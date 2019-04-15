@@ -1,0 +1,7 @@
+C:\Users\lu_lu\Documents\Programas\Programas em C#\Lista do IBGE\Lista do IBGE\bin\Debug\Lista do IBGE.exe.config
+C:\Users\lu_lu\Documents\Programas\Programas em C#\Lista do IBGE\Lista do IBGE\bin\Debug\Lista do IBGE.exe
+C:\Users\lu_lu\Documents\Programas\Programas em C#\Lista do IBGE\Lista do IBGE\bin\Debug\Lista do IBGE.pdb
+C:\Users\lu_lu\Documents\Programas\Programas em C#\Lista do IBGE\Lista do IBGE\obj\Debug\Lista do IBGE.csprojAssemblyReference.cache
+C:\Users\lu_lu\Documents\Programas\Programas em C#\Lista do IBGE\Lista do IBGE\obj\Debug\Lista do IBGE.csproj.CoreCompileInputs.cache
+C:\Users\lu_lu\Documents\Programas\Programas em C#\Lista do IBGE\Lista do IBGE\obj\Debug\Lista do IBGE.exe
+C:\Users\lu_lu\Documents\Programas\Programas em C#\Lista do IBGE\Lista do IBGE\obj\Debug\Lista do IBGE.pdb
